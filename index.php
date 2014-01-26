@@ -5,10 +5,10 @@
     <style type="text/css">
       html { height: 100% }
       body { height: 100%; margin: 0; padding: 0 }
-      #map-canvas { height: 100% }
+      #map-canvas { height: 500px; width: 500px; }
     </style>
     <script type="text/javascript"
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhgsSe8xJA57TfEbdpgXZ_cIlcA9Rkyyo&sensor=false">
+      src="https://maps.googleapis.com/maps/api/js?key=IzaSyApfpTnmUKio01oc5zDx6RxzC0ZJk-Xi_A&sensor=true">
     </script>
     <script type="text/javascript">
       function initialize() {
